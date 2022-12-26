@@ -15,7 +15,7 @@ Python=3.8.8
 
 Test
 ---
-Mol2Parser is tested on the following systems:
+Mol2Parser is tested on the following system:
 
 | OS  |  RAM | CPU  |
 | ------------ | ------------ | ------------ |
