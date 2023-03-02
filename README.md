@@ -23,4 +23,4 @@ Mol2Parser is tested on the following system:
  
  Copyright
 --
-Copyright (c) 2021-2022, Milad Rayka
+Copyright (c) 2021-2023, Milad Rayka
